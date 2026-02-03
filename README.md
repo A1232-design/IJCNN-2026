@@ -1,2 +1,2 @@
 # IJCNN-2026
-项目将会上线整篇论文的设计思路，相关代码
+The repository will include the design methodology, implementation details and complete code upon acceptance of the paper. 
